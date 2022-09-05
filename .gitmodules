@@ -1,0 +1,4 @@
+[submodule "much-integration-hub"]
+	path = much-integration-hub
+	url = git@github.com:much-GmbH/much-integration-hub.git
+	branch = 14.1
