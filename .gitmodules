@@ -2,3 +2,8 @@
 	path = much-integration-hub
 	url = git@github.com:much-GmbH/much-integration-hub.git
 	branch = 14.1
+
+[submodule "much-purchasing"]
+	path = much-purchasing
+	url = git@github.com:much-GmbH/much-purchasing.git
+	branch = 14.1
